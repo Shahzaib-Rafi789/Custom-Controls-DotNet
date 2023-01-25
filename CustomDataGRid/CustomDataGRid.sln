@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomDataGRid", "CustomDataGRid\CustomDataGRid.csproj", "{6F41D107-6210-4A1F-BA69-67BB155ADEDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tester", "..\tester\tester\tester.csproj", "{1FF54729-F554-4EA8-A58F-C3ADAD5FB7C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F41D107-6210-4A1F-BA69-67BB155ADEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F41D107-6210-4A1F-BA69-67BB155ADEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F41D107-6210-4A1F-BA69-67BB155ADEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F41D107-6210-4A1F-BA69-67BB155ADEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF54729-F554-4EA8-A58F-C3ADAD5FB7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF54729-F554-4EA8-A58F-C3ADAD5FB7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF54729-F554-4EA8-A58F-C3ADAD5FB7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF54729-F554-4EA8-A58F-C3ADAD5FB7C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD6DAF84-16CB-4B2E-B5ED-7F413313DF8F}
+	EndGlobalSection
+EndGlobal
